@@ -335,7 +335,7 @@ The application can compare vegetation conditions between two consecutive years.
 
 The example below displays **2021 NDVI on the left** and **2022 NDVI on the right**.
 
-![NDVI 2021 vs 2022](screenshots/01_NDVI_2021_vs_2022.png)
+![NDVI 2021 vs 2022](/01_NDVI_2021_vs_2022.png)
 
 ---
 
@@ -345,7 +345,7 @@ The year-selection controls also support longer-term comparisons.
 
 This example compares **2018 with 2024**, demonstrating the ability to explore vegetation patterns across a six-year interval.
 
-![NDVI 2018 vs 2024](screenshots/02_NDVI_2018_vs_2024.png)
+![NDVI 2018 vs 2024](/02_NDVI_2018_vs_2024.png)
 
 ---
 
@@ -355,7 +355,7 @@ Users can switch from NDVI to **True Color Landsat imagery**.
 
 This provides a more natural visual representation of the landscape and allows satellite imagery from two years to be compared directly.
 
-![True Color 2021 vs 2022](screenshots/03_TrueColor_2021_vs_2022.png)
+![True Color 2021 vs 2022](/03_TrueColor_2021_vs_2022.png)
 
 ---
 
@@ -365,7 +365,7 @@ The application also provides a **False Color Vegetation** visualization.
 
 Near-infrared information is used to emphasize vegetation patterns that may be less obvious in true-color imagery.
 
-![False Color Vegetation 2021 vs 2022](screenshots/04_FalseColor_2021_vs_2022.png)
+![False Color Vegetation 2021 vs 2022](/04_FalseColor_2021_vs_2022.png)
 
 ---
 
@@ -375,7 +375,7 @@ The synchronized map views allow the user to zoom into a specific location while
 
 The example below demonstrates a more detailed NDVI comparison between **2018 and 2024**.
 
-![Split Panel Zoomed Comparison](screenshots/05_SplitPanel_Zoomed_Comparison.png)
+![Split Panel Zoomed Comparison](/05_SplitPanel_Zoomed_Comparison.png)
 
 ---
 
